@@ -1,0 +1,23 @@
+{
+  "name": "tsx_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttran835/tsx_sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttran835/tsx_sample/issues"
+  },
+  "homepage": "https://github.com/ttran835/tsx_sample#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
